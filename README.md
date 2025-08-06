@@ -1,4 +1,5 @@
-# qb-cog# Comprehensive Learning Roadmap for Cognitive Computation
+# qb-cog
+# Comprehensive Learning Roadmap for Cognitive Computation
 
 ## 1. Foundations of Cognitive Science
 - Introduction to Cognition and Cognitive Science
